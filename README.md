@@ -28,6 +28,10 @@ HireTwin AI is a complete, production-ready AI-powered career platform that help
 16. **Premium Subscription** - Beautiful pricing page with 3 tiers
 17. **404 Page** - Stylish error page
 
+
+---
+
+
 ## 🎨 Design Features
 
 ### Premium Startup UI
